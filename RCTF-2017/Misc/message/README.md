@@ -18,3 +18,4 @@
 (TODO)(待完成)
 
 ## Other write-ups and resources
+* * [0xD13A](https://ctftime.org/writeup/6718)

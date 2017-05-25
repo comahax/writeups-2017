@@ -17,3 +17,4 @@
 
 ## Other write-ups and resources
 * * [greunion](https://gist.github.com/rkmylo/e18b87fdbef1022756727e40b5bb5616)
+* * [ROIS](https://blog.cal1.cn/post/RCTF%202017%20rCDN%20&%20noxss%20writeup)

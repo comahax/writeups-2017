@@ -17,3 +17,4 @@
 (TODO)(待完成)
 
 ## Other write-ups and resources
+* * [Spiderz](http://rce4fun.blogspot.com/2017/05/rctf-2017-crackme-714-pts-writeup.html)

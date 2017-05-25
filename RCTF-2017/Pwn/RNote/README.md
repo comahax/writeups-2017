@@ -17,3 +17,4 @@
 (TODO)(待完成)
 
 ## Other write-ups and resources
+* * [dankSquad](https://drigg3r.gitbooks.io/ctf-writeups-2017/rctf-2017/rnotepwn.html)

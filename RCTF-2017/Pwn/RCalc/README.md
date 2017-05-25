@@ -15,3 +15,4 @@
 (TODO)(待完成)
 
 ## Other write-ups and resources
+* * [khack40](https://github.com/Laxa/write-ups/blob/master/RCTF%202017/rcalc/solve.py)

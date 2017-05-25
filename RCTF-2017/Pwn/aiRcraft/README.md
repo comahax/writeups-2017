@@ -16,3 +16,4 @@
 (TODO)(待完成)
 
 ## Other write-ups and resources
+* * [OpenToAll](https://pastebin.com/raw/dkfPpyVU)

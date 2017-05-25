@@ -14,3 +14,4 @@
 (TODO)(待完成)
 
 ## Other write-ups and resources
+* * [ROIS](https://blog.cal1.cn/post/RCTF%202017%20rCDN%20&%20noxss%20writeup)
