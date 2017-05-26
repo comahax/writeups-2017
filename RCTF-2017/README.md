@@ -17,6 +17,7 @@ RCTF 2017
 * [Reverse/crackme](Reverse/crackme)
 * [Reverse/easyre](Reverse/easyre)
 * [Reverse/HelloDalvik](Reverse/HelloDalvik)
+* [Web/Commonjs](Web/Commonjs)
 * [Web/noxss](Web/noxss)
 * [Web/rBlog](Web/rBlog)
 * [Web/rCDN](Web/rCDN)
@@ -32,6 +33,5 @@ RCTF 2017
 * [Reverse/MyDriver2](Reverse/MyDriver2)
 * [Reverse/Need-a-waiter](Reverse/Need-a-waiter)
 * [Reverse/uwp](Reverse/uwp)
-* [Web/Commonjs](Web/Commonjs)
 * [Web/login](Web/login)
 
