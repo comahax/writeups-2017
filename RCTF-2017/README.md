@@ -8,6 +8,7 @@ RCTF 2017
 * [Crypto/RSA_sign1](Crypto/RSA_sign1)
 * [Crypto/RSA_sign2](Crypto/RSA_sign2)
 * [Misc/intoU](Misc/intoU)
+* [Misc/light](Misc/light)
 * [Misc/message](Misc/message)
 * [Misc/mysql](Misc/mysql)
 * [Pwn/aiRcraft](Pwn/aiRcraft)
@@ -25,7 +26,6 @@ RCTF 2017
 
 ## Missing write-ups (缺失writeup)
 * [Misc/baby-enc](Misc/baby-enc)
-* [Misc/light](Misc/light)
 * [Misc/Sign-In](Misc/Sign-In)
 * [Pwn/RNote2](Pwn/RNote2)
 * [Reverse/actually-cpp](Reverse/actually-cpp)

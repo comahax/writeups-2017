@@ -22,3 +22,4 @@
 ## Other write-ups and resources
 * * [Owlz](https://bannsecurity.com/index.php/home/10-ctf-writeups/41-defcon-2017-mute)
 * * [Shadow Cats](http://fadec0d3.blogspot.com/2017/05/def-con-ctf-quals-2017-mute.html)
+* * [Lazenca.0x0](http://www.lazenca.net/display/TEC/Potent+Pwnables%29+mute)
