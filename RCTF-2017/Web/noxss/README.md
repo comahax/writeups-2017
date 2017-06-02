@@ -15,3 +15,4 @@
 
 ## Other write-ups and resources
 * * [ROIS](https://blog.cal1.cn/post/RCTF%202017%20rCDN%20&%20noxss%20writeup)
+* * [offcial writeups ¹Ù·½writeups](http://bobao.360.cn/ctf/detail/202.html)

@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 * * [bi0s](https://r3xnation.wordpress.com/2017/05/22/rctf-17-easy_re)
 * * [0xD13A](https://ctftime.org/writeup/6722)
+* * [offcial writeups ¹Ù·½writeups](http://bobao.360.cn/ctf/detail/202.html)

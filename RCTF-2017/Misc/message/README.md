@@ -19,3 +19,4 @@
 
 ## Other write-ups and resources
 * * [0xD13A](https://ctftime.org/writeup/6718)
+* * [offcial writeups ¹Ù·½writeups](http://bobao.360.cn/ctf/detail/202.html)

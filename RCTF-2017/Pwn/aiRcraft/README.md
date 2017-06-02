@@ -17,3 +17,4 @@
 
 ## Other write-ups and resources
 * * [OpenToAll](https://pastebin.com/raw/dkfPpyVU)
+* * [offcial writeups ¹Ù·½writeups](http://bobao.360.cn/ctf/detail/202.html)

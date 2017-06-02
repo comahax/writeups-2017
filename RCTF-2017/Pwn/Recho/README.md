@@ -18,3 +18,4 @@
 
 ## Other write-ups and resources
 * * [khack40](https://github.com/Laxa/write-ups/blob/master/RCTF%202017/recho/solve.py)
+* * [offcial writeups ¹Ù·½writeups](http://bobao.360.cn/ctf/detail/202.html)
